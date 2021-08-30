@@ -1,0 +1,22 @@
+{
+  "name": "mercadoliebreconsulta",
+  "version": "1.0.0",
+  "description": "clon de mercadolibre para DH en clase de consulta nro 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matiasstewart/mercadoLiebreConsulta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matiasstewart/mercadoLiebreConsulta/issues"
+  },
+  "homepage": "https://github.com/Matiasstewart/mercadoLiebreConsulta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
